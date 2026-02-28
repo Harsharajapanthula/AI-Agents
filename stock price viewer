@@ -1,0 +1,3 @@
+This project is an AI-powered stock price agent built using n8n workflow automation. The agent fetches real-time stock market data via API integration and provides automated responses based on user input.
+
+It demonstrates how low-code automation tools can be combined with AI to create intelligent, event-driven financial assistants.
